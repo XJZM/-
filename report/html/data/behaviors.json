@@ -1,5 +1,41 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "name" : "behaviors",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "TestSearch.test_display_search",
+    "uid" : "eead69007b95ceb8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1530262238070,
+      "stop" : 1530262257083,
+      "duration" : 19013
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TestNetwork.test_network_2g",
+    "uid" : "b2289cad98ba8052",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1530262257092,
+      "stop" : 1530262271947,
+      "duration" : 14855
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TestNetwork.test_network_3g",
+    "uid" : "127ad09de3f58b86",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1530262271948,
+      "stop" : 1530262287058,
+      "duration" : 15110
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
 }

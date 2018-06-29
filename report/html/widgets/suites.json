@@ -1,4 +1,26 @@
 {
-  "total" : 0,
-  "items" : [ ]
+  "total" : 2,
+  "items" : [ {
+    "uid" : "5f4cae23b61baee5fa85a33d20cec7c8",
+    "name" : "scripts.test_network",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "ab60e7ae472db6e6a740fc30b85d8161",
+    "name" : "scripts.test_display",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
 }

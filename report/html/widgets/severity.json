@@ -1,1 +1,31 @@
-[ ]
+[ {
+  "uid" : "b2289cad98ba8052",
+  "name" : "TestNetwork.test_network_2g",
+  "time" : {
+    "start" : 1530262257092,
+    "stop" : 1530262271947,
+    "duration" : 14855
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eead69007b95ceb8",
+  "name" : "TestSearch.test_display_search",
+  "time" : {
+    "start" : 1530262238070,
+    "stop" : 1530262257083,
+    "duration" : 19013
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "127ad09de3f58b86",
+  "name" : "TestNetwork.test_network_3g",
+  "time" : {
+    "start" : 1530262271948,
+    "stop" : 1530262287058,
+    "duration" : 15110
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

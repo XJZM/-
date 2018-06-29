@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.test_network.TestNetwork.test_network_3g","15110",""
+"passed","scripts.test_display.TestSearch.test_display_search","19013",""
+"passed","scripts.test_network.TestNetwork.test_network_2g","14855",""
